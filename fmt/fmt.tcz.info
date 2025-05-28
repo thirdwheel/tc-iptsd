@@ -1,0 +1,13 @@
+Title:          fmt.tcz
+Description:    An open-source formatting library providing a fast and safe
+                alternative to C stdio and C++ iostreams
+Version:        11.2.0
+Author:         fmtlib
+Original-site:  https://github.com/fmtlib/fmt/
+Size:           
+Copying-policy: MIT
+Extension-by:   thirdwheel
+Tags:           fmt
+Comments:       Build script at https://github.com/thirdwheel/tc-iptsd
+Changelog:      --
+Current:        2025-05-28 Initial version
