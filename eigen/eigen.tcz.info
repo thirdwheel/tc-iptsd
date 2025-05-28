@@ -1,0 +1,13 @@
+Title:          eigen.tcz
+Description:    C++ template library for linear algebra: matrices, vectors,
+                numerical solvers, and related algorithms
+Version:        3.4
+Author:         libeigen
+Original-site:  https://gitlab.com/libeigen/eigen/
+Size:           
+Copying-policy: MPL 2.0
+Extension-by:   thirdwheel
+Tags:           eigen algebra matrices vectors
+Comments:       Build script at https://github.com/thirdwheel/tc-iptsd
+Changelog:      --
+Current:        2025-05-28 Initial version
