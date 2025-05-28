@@ -1,0 +1,12 @@
+Title:          cli11.tcz
+Description:    Command line parser for C++11
+Version:        2.5.0
+Author:         CLIUtils
+Original-site:  https://github.com/CLIUtils/CLI11/
+Size:           
+Copying-policy: 3-Clause BSD
+Extension-by:   thirdwheel
+Tags:           cli11
+Comments:       Build script at https://github.com/thirdwheel/tc-iptsd
+Changelog:      --
+Current:        2025-05-28 Initial version
