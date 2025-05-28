@@ -1,0 +1,12 @@
+Title:          spdlog.tcz
+Description:    Fast C++ logging library
+Version:        1.15.3
+Author:         gabime
+Original-site:  https://github.com/gabime/spdlog/
+Size:           
+Copying-policy: MIT
+Extension-by:   thirdwheel
+Tags:           spdlog
+Comments:       Build script at https://github.com/thirdwheel/tc-iptsd
+Changelog:      --
+Current:        2025-05-28 Initial version
