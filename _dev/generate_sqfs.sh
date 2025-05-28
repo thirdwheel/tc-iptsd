@@ -6,7 +6,7 @@
 
 # Clean up any failed runs
 rm -Rf $1 $1.tcz
-git restore $1.tcz.list
+git restore $1.tcz.info
 
 # Prepare staging area
 mkdir $1
