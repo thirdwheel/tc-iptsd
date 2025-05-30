@@ -28,7 +28,7 @@ sed -i 's/^Size: */&'$SIZE'/' $1.tcz.info
 zsyncmake $1.tcz >/dev/null 2>&1
 
 # Pack it all up
-tar cvfz $1.tar.gz $1.tcz*
+tar cvfz ../_output/$1.tar.gz $1.tcz*
 
 # Clean up
 rm -Rf $1 $1.tcz $1.tcz.zsync

@@ -1,0 +1,12 @@
+Title:          GSL.tcz
+Description:    Microsoft Guidelines Support Library
+Version:        4.2.0
+Author:         Microsoft
+Original-site:  https://github.com/Microsoft/GSL/
+Size:           
+Copying-policy: MIT
+Extension-by:   thirdwheel
+Tags:           gsl
+Comments:       Build script at https://github.com/thirdwheel/tc-iptsd
+Changelog:      --
+Current:        2025-05-28 Initial version

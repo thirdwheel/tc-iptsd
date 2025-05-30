@@ -1,0 +1,13 @@
+usr/local/share/cmake/Microsoft.GSL/Microsoft.GSLConfigVersion.cmake
+usr/local/share/cmake/Microsoft.GSL/Microsoft.GSLConfig.cmake
+usr/local/share/cmake/Microsoft.GSL/GSL.natvis
+usr/local/include/gsl/gsl
+usr/local/include/gsl/span
+usr/local/include/gsl/algorithm
+usr/local/include/gsl/span_ext
+usr/local/include/gsl/zstring
+usr/local/include/gsl/pointers
+usr/local/include/gsl/narrow
+usr/local/include/gsl/assert
+usr/local/include/gsl/util
+usr/local/include/gsl/byte
